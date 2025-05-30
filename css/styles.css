@@ -1,7 +1,17 @@
 body {
-    background-color: #ffffff;
+    background-color: #000000;
+    color: #ffffff;
+    font-family: 'JetBrains Mono', monospace;
 }
 
-h1 {
-    color: #ff0000;
+p {
+    font-size: 16px;
+    text-align: justify;
+}
+
+hr {
+    border: none;
+    height: 2px;
+    background-color: #ffffff;  /* dark gray line */
+    margin: 20px 0;
 }
