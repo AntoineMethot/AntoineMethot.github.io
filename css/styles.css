@@ -15,3 +15,7 @@ hr {
     background-color: #ffffff;  /* dark gray line */
     margin: 20px 0;
 }
+
+section {
+    margin-bottom: 3rem;
+}
